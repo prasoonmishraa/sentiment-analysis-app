@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analyzer</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1e1e2f, #2c2c54);
+            color: white;
+            font-family: Arial;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+
+        textarea {
+            width: 60%;
+            height: 120px;
+            padding: 10px;
+            border-radius: 10px;
+            border: none;
+            font-size: 16px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 12px 25px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            background: #ff4b5c;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #ff1e3c;
+        }
+
+        .result {
+            margin-top: 30px;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>💬 Sentiment Analysis App</h1>
+
+    <form action="/predict" method="post">
+        <textarea name="text" placeholder="Type your text here..."></textarea>
+        <br>
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if prediction %}
+        <div class="result">
+            Result: {{ prediction }} <br>
+        </div>
+    {% endif %}
+
+</body>
+</html>

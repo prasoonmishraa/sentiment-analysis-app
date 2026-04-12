@@ -1,0 +1,660 @@
+Text,Sentiment
+I love this product,Positive
+Amazing experience,Positive
+Best purchase ever,Positive
+Highly recommended,Positive
+Fantastic quality,Positive
+Excellent performance,Positive
+Superb product,Positive
+Great value for money,Positive
+Absolutely wonderful,Positive
+Very satisfied,Positive
+Loved it,Positive
+Perfect product,Positive
+I am extremely happy,Positive
+Brilliant item,Positive
+Top quality,Positive
+Very good experience,Positive
+I enjoy using this,Positive
+Outstanding performance,Positive
+Worth every penny,Positive
+Incredible product,Positive
+This is amazing,Positive
+I am impressed,Positive
+Very useful item,Positive
+Loved the quality,Positive
+Fantastic experience,Positive
+Really good product,Positive
+I recommend this,Positive
+Very nice product,Positive
+Great purchase,Positive
+Super happy,Positive
+Worst experience ever,Negative
+I hate this product,Negative
+Very bad quality,Negative
+Not worth the money,Negative
+Terrible item,Negative
+Extremely disappointing,Negative
+Poor performance,Negative
+Waste of money,Negative
+Absolutely horrible,Negative
+Very unsatisfied,Negative
+Regret buying this,Negative
+Bad product,Negative
+Horrible experience,Negative
+Not recommended at all,Negative
+Worst purchase ever,Negative
+Cheap quality,Negative
+Very poor item,Negative
+Disappointed a lot,Negative
+Useless product,Negative
+It broke quickly,Negative
+Pathetic quality,Negative
+I dislike this,Negative
+Awful product,Negative
+Very bad experience,Negative
+Not good at all,Negative
+Low quality,Negative
+Worst item,Negative
+Terrible performance,Negative
+Do not buy this,Negative
+Complete waste,Negative
+It is okay,Neutral
+Average product,Neutral
+Nothing special,Neutral
+It works fine,Neutral
+Just normal,Neutral
+Moderate quality,Neutral
+Not too good not too bad,Neutral
+It is acceptable,Neutral
+Fine for use,Neutral
+Neutral experience,Neutral
+Decent product,Neutral
+Okayish item,Neutral
+Regular quality,Neutral
+Satisfactory product,Neutral
+Works as expected,Neutral
+No strong opinion,Neutral
+Neither good nor bad,Neutral
+Manageable product,Neutral
+Basic performance,Neutral
+Standard item,Neutral
+I really love this item,Positive
+This product is fantastic,Positive
+Very impressive performance,Positive
+I am very satisfied,Positive
+Excellent quality,Positive
+Superb experience,Positive
+Highly impressed,Positive
+This is brilliant,Positive
+Great quality product,Positive
+Absolutely loved it,Positive
+Very happy with this,Positive
+Best decision ever,Positive
+Works perfectly,Positive
+Amazing product quality,Positive
+Top notch item,Positive
+Great experience,Positive
+I like this very much,Positive
+Very reliable product,Positive
+Extremely good item,Positive
+Five stars product,Positive
+Totally worth it,Positive
+Loved the experience,Positive
+Great design and quality,Positive
+Highly satisfied,Positive
+I would buy again,Positive
+Very smooth performance,Positive
+Excellent item,Positive
+Super quality product,Positive
+Really loved this,Positive
+Best in class,Positive
+This is terrible,Negative
+Very poor experience,Negative
+Worst quality ever,Negative
+I am unhappy with this,Negative
+Bad experience overall,Negative
+Extremely bad product,Negative
+Very disappointing item,Negative
+Not useful at all,Negative
+Hate this item,Negative
+Worst service,Negative
+Not satisfied,Negative
+Low performance,Negative
+Poor quality item,Negative
+Totally disappointed,Negative
+Very bad item,Negative
+Does not work properly,Negative
+Extremely poor quality,Negative
+Waste product,Negative
+Badly designed,Negative
+Very frustrating,Negative
+Worst design,Negative
+Cheap and bad,Negative
+Not recommended,Negative
+Very low quality,Negative
+Fails expectations,Negative
+Bad experience,Negative
+Terrible purchase,Negative
+Horrible product quality,Negative
+Does not meet expectations,Negative
+Worst ever product,Negative
+It is fine,Neutral
+Just okay product,Neutral
+Average experience,Neutral
+Normal quality,Neutral
+Nothing new here,Neutral
+Standard performance,Neutral
+It is decent,Neutral
+Okay for use,Neutral
+Balanced product,Neutral
+Neutral opinion,Neutral
+Acceptable performance,Neutral
+Fair quality,Neutral
+Regular item,Neutral
+No complaints,Neutral
+Moderate experience,Neutral
+Simple product,Neutral
+Typical quality,Neutral
+Just usable,Neutral
+Basic item,Neutral
+Not impressive not bad,Neutral
+I am loving this product,Positive
+This is really good,Positive
+Excellent build quality,Positive
+Very enjoyable experience,Positive
+This product exceeded expectations,Positive
+Amazing item,Positive
+Very comfortable to use,Positive
+High quality product,Positive
+I am impressed with this,Positive
+Fantastic performance,Positive
+Very efficient and useful,Positive
+Loved using this,Positive
+Best quality ever,Positive
+Very good purchase,Positive
+I feel happy with this,Positive
+Wonderful experience,Positive
+Great item overall,Positive
+Very well made product,Positive
+Perfect for my needs,Positive
+Awesome product,Positive
+Highly effective,Positive
+Works amazingly well,Positive
+Very durable product,Positive
+Great support and service,Positive
+Totally satisfied,Positive
+I am glad I bought this,Positive
+Very powerful performance,Positive
+Outstanding quality,Positive
+Perfect choice,Positive
+This is disappointing,Negative
+Very poor design,Negative
+I am not happy with this,Negative
+This is useless,Negative
+Terrible build quality,Negative
+Very bad purchase,Negative
+Extremely unsatisfied,Negative
+Worst item I have used,Negative
+Doesn't work properly,Negative
+Bad quality overall,Negative
+Very poor experience,Negative
+I regret this purchase,Negative
+Completely disappointed,Negative
+Very low performance,Negative
+Not good product,Negative
+Fails badly,Negative
+Worst ever experience,Negative
+Very bad design,Negative
+Poor functionality,Negative
+I am frustrated,Negative
+Terrible experience,Negative
+Bad choice,Negative
+Low durability,Negative
+This is awful,Negative
+Very unsatisfactory,Negative
+Not working as expected,Negative
+Hate using this,Negative
+Worst quality item,Negative
+Completely useless,Negative
+Bad overall,Negative
+It is average,Neutral
+Just a normal item,Neutral
+Nothing impressive here,Neutral
+It’s okay product,Neutral
+Average build quality,Neutral
+Normal experience,Neutral
+It works as usual,Neutral
+No issues but nothing great,Neutral
+Acceptable quality,Neutral
+Standard item,Neutral
+Typical performance,Neutral
+It is just fine,Neutral
+Regular experience,Neutral
+Nothing to complain,Neutral
+Okay performance,Neutral
+Basic quality,Neutral
+No major issues,Neutral
+Fair performance,Neutral
+Not exciting,Neutral
+Usable product,Neutral
+Absolutely amazing product,Positive
+Very good quality item,Positive
+I am extremely satisfied with this,Positive
+Brilliant performance,Positive
+Great experience overall,Positive
+Loved every part of it,Positive
+Highly efficient product,Positive
+Perfectly designed,Positive
+Very smooth usage,Positive
+Excellent choice,Positive
+Best quality product,Positive
+Superb experience overall,Positive
+I really appreciate this,Positive
+Outstanding experience,Positive
+Very reliable item,Positive
+Amazing build and design,Positive
+I am fully satisfied,Positive
+Great and useful product,Positive
+Top class item,Positive
+Fantastic overall experience,Positive
+Very bad product quality,Negative
+I am extremely disappointed,Negative
+Worst item ever used,Negative
+Very poor performance overall,Negative
+Terrible and useless,Negative
+Not working properly,Negative
+Very frustrating product,Negative
+Bad quality and design,Negative
+Extremely poor experience,Negative
+Worst decision ever,Negative
+Very unsatisfied with this,Negative
+Horrible and cheap quality,Negative
+Fails completely,Negative
+This product is trash,Negative
+I would not recommend this,Negative
+Very low quality product,Negative
+Awful experience,Negative
+Very bad purchase decision,Negative
+Completely disappointed product,Negative
+Worst performance ever,Negative
+It is neither good nor bad,Neutral
+Just an average experience,Neutral
+Nothing much to say,Neutral
+Okayish quality,Neutral
+Standard usage experience,Neutral
+Works fine nothing more,Neutral
+Moderately useful product,Neutral
+Neutral overall experience,Neutral
+Acceptable but not great,Neutral
+Simple and basic item,Neutral
+Typical usage experience,Neutral
+Not bad not good,Neutral
+Just fine for use,Neutral
+Average and normal,Neutral
+No strong feelings,Neutral
+Balanced experience,Neutral
+Okay to use,Neutral
+Decent overall,Neutral
+Moderate usability,Neutral
+General quality product,Neutral
+I absolutely love using this every day,Positive
+This product is truly amazing,Positive
+Very high quality and reliable,Positive
+I am extremely happy with the results,Positive
+This exceeded all my expectations,Positive
+Fantastic and easy to use,Positive
+Very impressive design,Positive
+Great functionality and smooth usage,Positive
+Loved the performance,Positive
+Highly useful product,Positive
+Best investment ever,Positive
+Really happy with this purchase,Positive
+Excellent and durable,Positive
+Superb performance overall,Positive
+I would definitely recommend this,Positive
+Great value and quality,Positive
+Very satisfied with the service,Positive
+Top quality and easy to use,Positive
+Absolutely fantastic experience,Positive
+One of the best products,Positive
+This is very disappointing,Negative
+Worst performance I have seen,Negative
+Very low quality material,Negative
+I am not satisfied at all,Negative
+Terrible experience using this,Negative
+This product failed completely,Negative
+Very frustrating to use,Negative
+Bad experience overall,Negative
+Extremely poor quality,Negative
+Not worth buying,Negative
+Completely waste of money,Negative
+Very bad service and product,Negative
+I regret this purchase a lot,Negative
+Worst build quality,Negative
+It stopped working quickly,Negative
+Very unreliable product,Negative
+Poor and cheap quality,Negative
+I hate using this,Negative
+Very disappointing results,Negative
+Not recommended at all,Negative
+It is just average,Neutral
+Nothing impressive in this,Neutral
+It works as expected,Neutral
+Average quality product,Neutral
+It is fine for normal use,Neutral
+Neither good nor bad experience,Neutral
+Okay product overall,Neutral
+Standard performance,Neutral
+Moderate quality item,Neutral
+Nothing unique about it,Neutral
+Acceptable product,Neutral
+It is usable,Neutral
+Fair performance overall,Neutral
+Basic functionality,Neutral
+Simple and average,Neutral
+Decent but not great,Neutral
+Neutral feelings about it,Neutral
+Regular product,Neutral
+Okay experience overall,Neutral
+Balanced performance,Neutral
+I really enjoy using this product daily,Positive
+This is one of the best products I have used,Positive
+Very smooth and efficient performance,Positive
+I am completely satisfied with this,Positive
+Great quality and easy to use,Positive
+This product works flawlessly,Positive
+I am impressed with the build quality,Positive
+Amazing and reliable item,Positive
+Very useful and practical,Positive
+Loved the overall experience,Positive
+It performs really well,Positive
+High quality and durable,Positive
+Great design and performance,Positive
+This is absolutely worth it,Positive
+Very comfortable to use,Positive
+Excellent and user friendly,Positive
+Top notch performance,Positive
+I am very pleased with this,Positive
+Fantastic and efficient,Positive
+Great and dependable product,Positive
+This product is really bad,Negative
+Very poor build and design,Negative
+I am unhappy with this purchase,Negative
+Worst product I have ever used,Negative
+Extremely low quality,Negative
+Very disappointing performance,Negative
+It does not work properly,Negative
+Bad experience using this,Negative
+Totally unsatisfied,Negative
+Poor and unreliable product,Negative
+This item is completely useless,Negative
+Very frustrating to use,Negative
+Worst quality ever seen,Negative
+I regret buying this product,Negative
+Very bad design and quality,Negative
+This product failed quickly,Negative
+Not worth the money at all,Negative
+Horrible and cheap product,Negative
+Very poor experience overall,Negative
+I would never buy this again,Negative
+It is just normal,Neutral
+Nothing great about this product,Neutral
+It performs okay,Neutral
+Average and usable,Neutral
+It is fine for basic use,Neutral
+Standard quality,Neutral
+Moderately useful item,Neutral
+It works as intended,Neutral
+Not impressive but okay,Neutral
+It is acceptable for the price,Neutral
+Decent performance,Neutral
+Nothing special here,Neutral
+Simple product,Neutral
+Neutral experience overall,Neutral
+It is manageable,Neutral
+Basic and average,Neutral
+No strong opinion,Neutral
+Fairly okay product,Neutral
+Balanced and stable,Neutral
+Typical item,Neutral
+I absolutely enjoy this product a lot,Positive
+Very satisfying and smooth experience,Positive
+This is a high quality item,Positive
+I am really impressed with this,Positive
+Amazing performance and usability,Positive
+This works perfectly for me,Positive
+Very reliable and efficient,Positive
+Loved how easy it is to use,Positive
+Fantastic and well designed,Positive
+Great experience so far,Positive
+Very effective product,Positive
+I am happy with this purchase,Positive
+Excellent and strong build,Positive
+Very useful in daily life,Positive
+Highly dependable product,Positive
+Great quality and performance,Positive
+Superb usability,Positive
+I feel great using this,Positive
+Very impressive product overall,Positive
+This is truly worth buying,Positive
+This is not a good product,Negative
+Very disappointing and slow,Negative
+Worst quality I have seen,Negative
+I am very unhappy with this,Negative
+Terrible and useless product,Negative
+Very poor performance,Negative
+Does not meet expectations,Negative
+Bad and unreliable item,Negative
+Extremely frustrating to use,Negative
+Worst purchase ever made,Negative
+Cheap and low quality product,Negative
+I regret buying this item,Negative
+Very bad experience using this,Negative
+Fails to perform properly,Negative
+Horrible build quality,Negative
+Not working as expected,Negative
+Totally waste product,Negative
+Very bad and disappointing,Negative
+I would not buy this again,Negative
+This product is awful,Negative
+It is an average product,Neutral
+Nothing very exciting,Neutral
+Works okay for now,Neutral
+Moderate and acceptable,Neutral
+Just a simple item,Neutral
+It is fine for basic needs,Neutral
+Standard and expected performance,Neutral
+Nothing special about it,Neutral
+Neutral feeling overall,Neutral
+It is okay to use,Neutral
+Average and manageable,Neutral
+Regular and simple,Neutral
+No big issues,Neutral
+It is fine overall,Neutral
+Balanced performance,Neutral
+Okayish and usable,Neutral
+Decent and fair,Neutral
+Basic but functional,Neutral
+Neither impressive nor bad,Neutral
+Typical usage experience,Neutral
+I really like how this works,Positive
+This product is very efficient,Positive
+Excellent and smooth performance,Positive
+I am fully happy with this product,Positive
+Great usability and design,Positive
+This is a fantastic item,Positive
+Very easy to use and reliable,Positive
+Amazing and powerful product,Positive
+I enjoyed using this a lot,Positive
+Very high performance product,Positive
+Super quality and performance,Positive
+I am satisfied with this purchase,Positive
+Very impressive features,Positive
+Great item for daily use,Positive
+Loved the performance and quality,Positive
+Highly effective and useful,Positive
+This is a brilliant product,Positive
+Very strong and durable,Positive
+Perfect for my usage,Positive
+Excellent and dependable,Positive
+I dislike this product,Negative
+Very bad and poor performance,Negative
+Worst item I have purchased,Negative
+Extremely disappointing experience,Negative
+Not useful and very slow,Negative
+This product is very bad,Negative
+I am not happy at all,Negative
+Terrible performance overall,Negative
+Bad and cheap quality,Negative
+Very frustrating experience,Negative
+Worst quality product,Negative
+Does not work well,Negative
+Poor and unreliable,Negative
+Very low performance,Negative
+Not worth even a little money,Negative
+Awful and bad product,Negative
+Extremely poor build quality,Negative
+Very disappointing results,Negative
+Completely useless item,Negative
+Worst experience using this,Negative
+It is okay and usable,Neutral
+Average product performance,Neutral
+Nothing too special here,Neutral
+It works fine for me,Neutral
+Moderate and simple,Neutral
+It is acceptable quality,Neutral
+Basic and usable,Neutral
+Standard and normal item,Neutral
+Okay performance overall,Neutral
+Neutral and balanced experience,Neutral
+It is fine nothing more,Neutral
+Simple and decent,Neutral
+Regular product quality,Neutral
+Fair and average,Neutral
+Usable but not impressive,Neutral
+Okayish experience,Neutral
+No strong likes or dislikes,Neutral
+Typical product,Neutral
+Acceptable performance,Neutral
+Balanced and fine,Neutral
+I am extremely pleased with this product,Positive
+This works better than expected,Positive
+Very high quality and smooth usage,Positive
+I really enjoy this item,Positive
+Fantastic and reliable performance,Positive
+Great product with excellent features,Positive
+Very satisfied with how it works,Positive
+Amazing and well built,Positive
+This product is worth buying,Positive
+I am happy using this every day,Positive
+Excellent and very efficient,Positive
+Loved the quality and performance,Positive
+Very dependable and strong,Positive
+Perfectly meets my expectations,Positive
+Highly recommended for everyone,Positive
+Very useful and effective,Positive
+Great experience overall,Positive
+Superb and reliable product,Positive
+Very comfortable and easy to use,Positive
+Outstanding and impressive,Positive
+This is a very bad product,Negative
+I am totally disappointed,Negative
+Worst performance ever,Negative
+Very poor and cheap material,Negative
+Not satisfied with this at all,Negative
+Terrible and frustrating experience,Negative
+Completely failed my expectations,Negative
+Bad and low quality item,Negative
+Extremely poor performance,Negative
+I regret buying this product,Negative
+Very bad and useless,Negative
+This does not work properly,Negative
+Poorly designed and unreliable,Negative
+Worst experience I have had,Negative
+Not worth the price,Negative
+Awful and disappointing,Negative
+Very low quality and performance,Negative
+Completely waste product,Negative
+Very frustrating to use,Negative
+I would not recommend this,Negative
+It is a normal product,Neutral
+Nothing much special,Neutral
+Works as expected,Neutral
+Average and okay,Neutral
+It is fine for usage,Neutral
+Moderate and acceptable quality,Neutral
+Just a basic item,Neutral
+Standard performance,Neutral
+Nothing impressive here,Neutral
+Neutral and simple,Neutral
+It is okay overall,Neutral
+Decent and average,Neutral
+Basic and usable product,Neutral
+Okay and manageable,Neutral
+No strong opinion about it,Neutral
+Fair enough,Neutral
+It is usable,Neutral
+Balanced and normal,Neutral
+Simple and regular,Neutral
+Acceptable but not great,Neutral
+I am very happy with this amazing product,Positive
+This product delivers excellent results,Positive
+Very smooth and satisfying performance,Positive
+I truly love using this item,Positive
+Fantastic and high quality product,Positive
+Great and efficient functionality,Positive
+Very reliable and strong performance,Positive
+Amazing experience with this,Positive
+This is a wonderful product,Positive
+I am fully satisfied with the quality,Positive
+Excellent and user friendly,Positive
+Very durable and well built,Positive
+Great product for daily use,Positive
+Loved every feature of this,Positive
+Highly impressive and effective,Positive
+Perfect product for my needs,Positive
+Very good and stable performance,Positive
+Outstanding and fantastic,Positive
+I would definitely buy again,Positive
+Superb and top quality item,Positive
+This product is extremely bad,Negative
+Very poor and disappointing,Negative
+Worst product I have ever bought,Negative
+Completely useless and bad,Negative
+Very low quality and unreliable,Negative
+Terrible and not working properly,Negative
+Extremely frustrating and bad,Negative
+I am not happy with this product,Negative
+Worst experience using this,Negative
+Bad performance and quality,Negative
+Very cheap and poorly made,Negative
+Not worth the money at all,Negative
+Completely disappointing item,Negative
+Very bad and unusable,Negative
+Awful product experience,Negative
+Fails to meet expectations,Negative
+Very poor and weak performance,Negative
+Not recommended for anyone,Negative
+Very bad purchase decision,Negative
+Totally waste of money,Negative
+It is just okay,Neutral
+Average and simple product,Neutral
+Nothing impressive overall,Neutral
+Works fine for basic use,Neutral
+Moderate and acceptable,Neutral
+It is usable and okay,Neutral
+Standard and regular item,Neutral
+Neutral and balanced,Neutral
+It is fine nothing special,Neutral
+Decent and fair quality,Neutral
+Basic and simple product,Neutral
+Just average performance,Neutral
+Nothing unique here,Neutral
+Acceptable and normal,Neutral
+Okay and manageable product,Neutral
+Regular and typical item,Neutral
+Balanced and stable performance,Neutral
+It is fine overall,Neutral
+No strong feelings about it,Neutral
+Moderate and usable,Neutral
